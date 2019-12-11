@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3743827",
+      "name": "化学试剂",
+      "font_class": "huaxueshiji-",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "6662455",
+      "name": "系统",
+      "font_class": "xitong",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7956069",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "8084547",
+      "name": "参数",
+      "font_class": "canshu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "8144519",
+      "name": "检测",
+      "font_class": "jiance",
+      "unicode": "e7a8",
+      "unicode_decimal": 59304
+    },
+    {
+      "icon_id": "8732425",
+      "name": "仪器",
+      "font_class": "tizhong",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "9656607",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    }
+  ]
+}

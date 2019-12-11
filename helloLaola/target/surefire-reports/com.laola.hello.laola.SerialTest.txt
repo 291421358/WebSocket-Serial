@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.laola.hello.laola.SerialTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 95.634 s - in com.laola.hello.laola.SerialTest

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/WebSocket-Serial.iml" filepath="$PROJECT_DIR$/.idea/WebSocket-Serial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloLaola/helloLaola.iml" filepath="$PROJECT_DIR$/helloLaola/helloLaola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloSerial/helloSerial.iml" filepath="$PROJECT_DIR$/helloSerial/helloSerial.iml" />
     </modules>
   </component>
 </project>
